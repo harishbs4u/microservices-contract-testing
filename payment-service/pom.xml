@@ -1,0 +1,8 @@
+<dependencies>
+    <dependency>
+        <groupId>au.com.dius.pact.consumer</groupId>
+        <artifactId>junit5</artifactId>
+        <version>4.3.9</version>
+        <scope>test</scope>
+    </dependency>
+</dependencies>
